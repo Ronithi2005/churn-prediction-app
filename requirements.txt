@@ -4,4 +4,4 @@ numpy
 scikit-learn==1.5.0
 joblib
 matplotlib
-seabornge
+seaborn
